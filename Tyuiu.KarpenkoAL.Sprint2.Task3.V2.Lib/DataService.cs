@@ -26,7 +26,7 @@ namespace Tyuiu.KarpenkoAL.Sprint2.Task3.V2.Lib
                     }
                     else
                     {
-                        if ((x != 0) && (x < -6))
+                        if (x < -6)
                         {
                             y = x + 10 * x - (1 / Math.Pow(x, 4));
                         } 
