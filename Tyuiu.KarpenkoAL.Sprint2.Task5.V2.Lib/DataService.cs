@@ -34,13 +34,13 @@ namespace Tyuiu.KarpenkoAL.Sprint2.Task5.V2.Lib
                     res = "Лето";
                     break;
                 case 9:
-                    res = "Осень";
+                    res = "осень";
                     break;
                 case 10:
-                    res = "Осень";
+                    res = "осень";
                     break;
                 case 11:
-                    res = "Осень";
+                    res = "осень";
                     break;
                 case 12:
                     res = "Зима";
