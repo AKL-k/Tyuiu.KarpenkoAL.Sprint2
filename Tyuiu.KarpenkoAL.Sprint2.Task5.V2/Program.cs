@@ -8,7 +8,7 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("* Спринт #2                                                               *");
 Console.WriteLine("* Тема: Оператор switch                                                   *");
 Console.WriteLine("* Задание #5                                                              *");
-Console.WriteLine("* Вариант #2                                                             *");
+Console.WriteLine("* Вариант #2                                                              *");
 Console.WriteLine("* Выполнил: Карпенко Артём Леонидович | ИБКСб-25-1                        *");
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                *");
